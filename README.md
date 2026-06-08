@@ -6,11 +6,11 @@ Customer churn (when customers leave a service) is one of the most expensive pro
 The goal of this project is to build a Machine Learning model that can predict **which customers are at the highest risk of leaving**, allowing the business to proactively intervene with retention strategies (like discounts or targeted marketing).
 
 ## Tools & Technologies Used
-* **Python** (Data manipulation and modeling)
-* **Pandas & NumPy** (Data cleaning and preprocessing)
-* **Scikit-Learn** (Machine Learning models, scaling, metrics)
-* **Imbalanced-Learn (SMOTE)** (Handling class imbalance)
-* **Matplotlib & Seaborn** (Data visualization and feature importance)
+*  **Python** (Data manipulation and modeling)
+*  **Pandas & NumPy** (Data cleaning and preprocessing)
+*  **Scikit-Learn** (Machine Learning models, scaling, metrics)
+*  **Imbalanced-Learn (SMOTE)** (Handling class imbalance)
+*  **Matplotlib & Seaborn** (Data visualization and feature importance)
 
 ## The Machine Learning Process
 ### 1. Data Preprocessing
@@ -42,7 +42,7 @@ Customers with standard phone service are highly likely to leave. This indicates
 🟢 **Top Driver of Loyalty: `Online Security`**
 Customers who utilize Online Security are the least likely to leave. Setting up security is a high-effort task, meaning these customers are deeply embedded in the company's services.
 
-**Business Recommendation:** Launch a campaign offering a free 3-month trial of Online Security to all Phone Service customers. Converting them into the security ecosystem will drastically lower their risk of churning.
+**Business Recommendation:**  Launch a campaign offering a free 3-month trial of Online Security to all Phone Service customers. Converting them into the security ecosystem will drastically lower their risk of churning.
 
 ## How to Run the Code
 1. Clone this repository to your local machine.
